@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I do research that looks at how we can do train better AIs with unreliable data at the [University of Edinburgh](https://web.inf.ed.ac.uk/aiai).
+
+I also write code that does things with spacecraft, the web, and sometimes other domains.
+
+If either of these are interesting to you, please [don't hesitate to get in touch](mailto:patrick@ka.ge?subject=Hello%21).
+
 <!--
 **pkage/pkage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
