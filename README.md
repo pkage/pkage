@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🛰
 
 I do research that looks at how we can do train better AIs with unreliable data at the [University of Edinburgh](https://web.inf.ed.ac.uk/aiai).
 
