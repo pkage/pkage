@@ -1,6 +1,6 @@
 ### Hi there 🛰
 
-I do research that looks at how we can do train better AIs with unreliable data at the [University of Edinburgh](https://web.inf.ed.ac.uk/aiai).
+I do research that looks at how we can train better AIs with unreliable data at the [University of Edinburgh](https://web.inf.ed.ac.uk/aiai).
 
 I also write code that interacts with spacecraft, the web, and sometimes other domains.
 
